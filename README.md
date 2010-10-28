@@ -19,4 +19,4 @@ Planned
 * Link
 * Conversation
 
-Use these however you wish, a link back to [http://kempster.co.uk](kempster.co.uk) would be much appreciated.
+Use these however you wish, a link back to [kempster.co.uk](http://kempster.co.uk) would be much appreciated.
